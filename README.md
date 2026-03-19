@@ -1,5 +1,5 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
-# NAME:JOTHI GANESH 
+# NAME:JOTHI GANESH
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
 
@@ -82,6 +82,7 @@ int main() {
 ```
 
 ## Output:
-![alt text](<Screenshot 2026-03-16 140424.png>)
+<img width="1679" height="884" alt="image" src="https://github.com/user-attachments/assets/6ca88f76-2a72-417d-98f8-9bd74289a6f5" />
+
 ## Result:
 The program is executed successfully.
